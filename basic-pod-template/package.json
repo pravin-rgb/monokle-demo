@@ -3,7 +3,7 @@
   "description": "Custom templates plugin",
   "version": "1.0.0",
   "author": "pravin",
-  "repository": "https://github.com/kubeshop/monokle-default-templates-plugin",
+  "repository": "https://github.com/pravin-rgb/monokle-template-plugin.git",
   "monoklePlugin": {
     "modules": [
       {
