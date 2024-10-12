@@ -1,10 +1,15 @@
 {
-  "name": "My first plugin",
-  "description": "Hello world!",
+  "name": "Template plugins",
+  "description": "Custom templates plugin",
   "version": "1.0.0",
-  "author": "Kubeshop",
+  "author": "pravin",
   "repository": "https://github.com/kubeshop/monokle-default-templates-plugin",
   "monoklePlugin": {
-    "modules": []
+    "modules": [
+      {
+        "type": "template",
+        "path": "basic-pod-template"
+      }
+    ]
   }
 }
